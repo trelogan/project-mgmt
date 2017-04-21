@@ -28,6 +28,10 @@ For more practice in GitHub including learning about branches, try this exercise
 
 :tada: 
 
-#header
+# header
 ## header
 ### headerrr
+
+:octocat:
+
+:balloons:
