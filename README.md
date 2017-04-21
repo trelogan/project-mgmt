@@ -34,4 +34,4 @@ For more practice in GitHub including learning about branches, try this exercise
 
 :octocat:
 
-:balloons:
+:balloon:
